@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class variablesinjava {
     public static void main(String[] args) {
