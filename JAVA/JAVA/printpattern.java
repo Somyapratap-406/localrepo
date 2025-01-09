@@ -1,4 +1,4 @@
-package JAVA;
+
 
 public class printpattern {
     public static void main (String args[]) {
